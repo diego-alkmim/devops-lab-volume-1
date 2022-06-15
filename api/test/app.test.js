@@ -17,6 +17,6 @@ describe('Api Integration Test', () => {
 
         // Assert
         assert.equal(response.status, 200);
-        assert.equal(response.body.message, 'IIH RAPAZ');
+        assert.equal(response.body.message, 'IIH RAPAAAZ');
     });
 });
