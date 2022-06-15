@@ -2,17 +2,19 @@
 
 > Pipeline (CI/CD) automatizado de 02 aplicações em uma Cloud pública
 
+> **DevOps, cultura e ferramentas**
+
 ## Projetos
 
 - API: retorna uma mensagem
-- APP: exibe a mensagem retornada pela API
+- WEB: exibe a mensagem retornada pela API
 
 ## Tecnologias
 
 - API:
     - [Node.js](https://nodejs.org/) <br>
     - [Express.js](https://expressjs.com/)
-- APP:
+- WEB:
     - [Node.js](https://nodejs.org/)
     - [Express.js](https://expressjs.com/)
     - [Pug.js](https://pugjs.org/)
